@@ -66,47 +66,49 @@ body{
 
 #img1-1-draggable{
    
-    right: -790px;
-    bottom: -220px;
+    right: -1090px;
+    bottom: -420px;
 }
 
 #img1-2-draggable{
     
-    left: 685px;
-    bottom: -220px;
+    left: 465px;
+    bottom: -199px;
 }
 
 #img1-3-draggable{
    
-    left: 620px;
-    bottom: -320px;
+    left: 220px;
+    bottom: -420px;
 }
 
 #img2-1-draggable{
-    left: 490px;
-    bottom: -350px;
+    left: 250px;
+    bottom: 30px;
 }
 
 #img2-2-draggable{
-    left: 240px;
-    bottom: -400px;
+    left: 40px;
+    bottom: -420px;
 }
 
 #img2-3-draggable{
-    left: 50px;
-    bottom: -290px;
+    left: 80px;
+    bottom: -190px;
 }
 
 
 #img3-1-draggable{
-     left: 680px;
-    top: -150px;
+     left: 880px;
+    top: -10px;
 }
+
 #img3-2-draggable{
-     left: 510px;
-    top: -100px;
+     left: 410px;
+    top: -220px;
 }
+
 #img3-3-draggable{
-     left: 550px;
-    top: -50px;
+     left: 680px;
+    top: -230px;
 }
